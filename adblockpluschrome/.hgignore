@@ -1,0 +1,13 @@
+^devenv.*$
+^node_modules$
+^docs$
+^test/screenshots$
+^\.last_ui_build$
+
+syntax:glob
+*.zip
+*.crx
+*.xpi
+*.pyc
+*.pyo
+*.sh
